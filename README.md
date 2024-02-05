@@ -11,4 +11,4 @@ The scope of this project is limited to the database design and implementation, 
 
 ## Dependencies
 
-This project does not have any external dependencies, except for the MySQLDBMS.
+This project does not have any external dependencies, except for the MySQL DBMS.
